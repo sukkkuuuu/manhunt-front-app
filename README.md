@@ -15,9 +15,9 @@
 ### 총괄
 이석민
 ### 백엔드
-한다운, 김도균, 최재익, 김진선, 배수훈, 양민철, 임대원 정부용, 전지환, 이재훈, 박상원, 이현석, 하지웅
+한다운, [김도균](https://github.com/GGallangE), 최재익, 김진선, 배수훈, 양민철, 임대원 정부용, 전지환, 이재훈, 박상원, [이현석](https://github.com/pwrwpw), 하지웅
 ### 앱
-이지민, 전유림, [최현수](https://github.com/sukkkuuuu), 오정민, 김민조, 문소연, 김예진
+[이지민](https://github.com/jmlee119), 전유림, [최현수](https://github.com/sukkkuuuu), [오정민](https://github.com/ojingjing), 김민조, 문소연, 김예진
 ### 웹
 김이레, 박현수, 윤진수, 백세은, 오영석, 정현준
 ### 공통
