@@ -44,7 +44,6 @@
 ![image](https://github.com/user-attachments/assets/eb64bcb9-7077-45fe-9657-11b57443e129)
 
 실제 구글 플레이 스토어에 업로드 되어있습니다.
-구글스토어 바로가기
 
 ![image](https://github.com/user-attachments/assets/d097d36e-4692-4adf-ab80-2e4416ab2c7f)
 
