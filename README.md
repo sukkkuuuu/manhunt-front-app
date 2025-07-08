@@ -27,20 +27,20 @@
 ### 프론트
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css3-663399?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> 
 
-# 아키텍처
+## 아키텍처
 ![image](https://github.com/user-attachments/assets/cde3495a-ee68-4527-8af2-eba258cb66f8)
 
-## 백엔드
+### 백엔드
 ![image](https://github.com/user-attachments/assets/06a17e2d-3613-4ee4-b82a-f181658dcad5)
 
-## 앱
+### 앱
 ![image](https://github.com/user-attachments/assets/66fb6402-853b-455b-870c-c8a3234cdba8)
 
-## 웹
+### 웹
 ![image](https://github.com/user-attachments/assets/3684ee3c-0bf7-4ec1-b8e2-2912d3d1c829)
 
 
-# 기능설명
+## 기능설명
 ![image](https://github.com/user-attachments/assets/eb64bcb9-7077-45fe-9657-11b57443e129)
 
 실제 구글 플레이 스토어에 업로드 되어있습니다.
